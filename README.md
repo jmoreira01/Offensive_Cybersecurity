@@ -1,6 +1,6 @@
 # Offensive Cybersecurity
 
-Red team exercises and threat emulation projects developed as part of the **CESAE Digital Network & Cybersecurity Administration** course (Offensive Simulation module).
+Personal red team exercises and threat emulation projects.
 
 All exercises were conducted in fully isolated lab environments. No real systems, networks, or individuals were involved.
 
